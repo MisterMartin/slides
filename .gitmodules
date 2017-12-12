@@ -1,0 +1,4 @@
+[submodule "docker-orchestration/reveal.js"]
+	path = docker-orchestration/reveal.js
+	url = https://github.com/hakimel/reveal.js
+	branch = master
