@@ -1,7 +1,14 @@
 ### DockerHub
 - A repository of prebuilt images.
+![](/images/dockerhub-repos.png)
+- Official images
+> Docker, Inc. sponsors a dedicated team that is responsible for reviewing and publishing all Official Repositories content
+
+
+!SLIDE
+### Container Configuration
 - Common usage: configure with environment variables.
-- Occaisonally create a derived image with minor startup/configuration functions.
+- Occasionally create a derived image with minor startup/configuration functions.
 
 !SLIDE
 ### Docker Volumes
