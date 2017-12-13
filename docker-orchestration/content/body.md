@@ -193,7 +193,7 @@ local               chordsportal_shared-tmp
 |*volumes*|Persistance and naming|
 |*environment*|System customization|
 
-On MaoOS/Linux/Windows. Cloud/local/Raspberry Pi.
+On MacOS/Linux/Windows. Cloud/local/Raspberry Pi.
 
 ```sh
 docker-compose pull
