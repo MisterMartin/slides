@@ -189,7 +189,7 @@ local               chordsportal_shared-tmp
 |Using|Provides|
 |-|-|
 |*docker-compose.yml*|Interacting services, defined via a rational syntax|
-|`docker-compose`|Start/stop/restart the system|
+|`docker-compose`|'One button' start/stop/restart|
 |*volumes*|Persistance and naming|
 |*environment*|System customization|
 
