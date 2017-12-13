@@ -1,3 +1,12 @@
+## Orchestration in Action
+----
+The NCAR Wx Stations
+
+<a href="http://portal.chordsrt.com" target="_blank"> 
+<img src='images/chords-mosaic.png' height='400' /> 
+</a>
+
+!SLIDE
 ## DockerHub (Free as in beer)
 ----
 A public repository of prebuilt images
@@ -64,15 +73,6 @@ else
   echo "Kapaciptor was not enabled (via KAPACITOR_ENABLED); not starting"
 fi
 ```
-
-!SLIDE
-## Orchestration in Action
-----
-The NCAR Wx Stations
-
-<a href="http://portal.chordsrt.com" target="_blank"> 
-<img src='images/chords-mosaic.png' height='400' /> 
-</a>
 
 !SLIDE
 ## Docker Volumes
