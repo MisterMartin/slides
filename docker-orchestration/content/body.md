@@ -12,11 +12,11 @@
 !SLIDE
 ## Docker Volumes
 ----
-- Similar to containers, but just used for holding information.
-- Exist in a Docker namespace, so easily referenced by containers.
-- Persist across reboots.
+- Similar to containers, but just used for strage.
+- Exist in a Docker namespace; easily mounted by containers.
+- Persistant across reboots.
 - Avoids O/S filesystem naming requirements.
-- Can be easily accessed simply by running a lightweight image.
+- Can be accessed simply by running a lightweight container.
 !SLIDE
 ## CHORDS
 ----
