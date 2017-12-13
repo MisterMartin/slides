@@ -77,11 +77,13 @@ fi
 !SLIDE
 ## Docker Volumes
 ----
-- Similar to containers, but just used for strage.
-- Exist in a Docker namespace; easily mounted by containers.
-- Persistant across reboots.
-- Avoids O/S filesystem naming requirements.
-- Can be accessed simply by running a lightweight container.
+| |
+|-|
+|Similar to containers, but just used for storage.|
+|Exist in a Docker namespace; easily mounted by containers.|
+|Persistant across reboots.|
+|Avoids O/S filesystem naming requirements.|
+|Can be accessed simply by running a lightweight container.|
 !SLIDE
 
 ## Orchestration
@@ -181,4 +183,19 @@ local               chordsportal_mysql-log
 local               chordsportal_nginx-log
 local               chordsportal_rails-log
 local               chordsportal_shared-tmp
+```
+!SLIDE
+## Conclusions
+|Using|Provides|
+|-|-|
+|*docker-compose.yml*|Interacting services, defined via a rational syntax|
+|`docker-compose`|Start/stop/restart the system|
+|*volumes*|Persistance and naming|
+|*environment*|System customization|
+
+On MaoOS/Linux/Windows. Cloud/local/Raspberry Pi.
+
+```sh
+docker-compose pull
+docker-compose up -d
 ```
