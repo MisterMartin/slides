@@ -1,6 +1,6 @@
 ### DockerHub
-- A repository of prebuilt images.
-<img src='images/dockerhub-repos.png' height='500' />
+- A public repository of prebuilt images
+<img src='images/dockerhub-repos.png' height='200' />
 - Official images
 > Docker, Inc. sponsors a dedicated team that is responsible for reviewing and publishing all Official Repositories content
 
