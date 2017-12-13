@@ -79,11 +79,11 @@ fi
 ----
 | |
 |-|
-|Similar to containers, but just used for storage.|
-|Exist in a Docker namespace; easily mounted by containers.|
-|Persistant across reboots.|
-|Avoids O/S filesystem naming requirements.|
-|Can be accessed simply by running a lightweight container.|
+|Similar to containers, but just used for storage|
+|Exist in a Docker namespace; easily mounted by containers|
+|Persistant across reboots|
+|Avoids O/S filesystem naming requirements|
+|Can be accessed simply by running a lightweight container|
 !SLIDE
 
 ## Orchestration
