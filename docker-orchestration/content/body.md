@@ -28,10 +28,12 @@ Sketch of the containers/images.
 !SLIDE
 ## Orchestration
 ----
-```docker-compose up -d```
-
-**docker-compose.yml:**
+```sh
+docker-compose up -d
 ```
+
+docker-compose.yml
+```yml
 version: '2'
 services:
   # CHORDS Rails application: nginx + rails + CHORDS rails code 
@@ -72,5 +74,5 @@ volumes:
   influxdb-log:
   kapacitor-log:
   grafana-log:
-  ````
+  ```
 
