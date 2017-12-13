@@ -14,9 +14,9 @@
 ----
 - Similar to containers, but just used for holding information.
 - Exist in a Docker namespace, so easily referenced by containers.
-- Persist nicely accross reboots.
+- Persist across reboots.
 - Avoids O/S filesystem naming requirements.
-- Can be easily accessed simply by running a lightweight image and mounting. Then access with "docker cp", etc.
+- Can be easily accessed simply by running a lightweight image.
 !SLIDE
 ## CHORDS
 ----
