@@ -1,9 +1,17 @@
-## DockerHub
+## Containers as Services
 ----
-- A public repository of prebuilt images
-<img src='images/dockerhub-repos.png' height='200' />
-- Official images
-> Docker, Inc. sponsors a dedicated team that is responsible for reviewing and publishing all Official Repositories content.
+<img src='images/chords-services.png' height='500' />
+
+!SLIDE
+## DockerHub (Free as in beer)
+----
+A public repository of prebuilt images
+
+<img src='images/dockerhub-repos.png' height='150' />
+
+And your own
+
+<img src='images/dockerhub-ncareol.png' height='150' />
 !SLIDE
 ## Container Configuration
 ----
@@ -21,10 +29,6 @@
 ## CHORDS
 ----
 Show CHORDS: Jump to portal.chordsrt.com.
-!SLIDE
-## CHORDS Structure
-----
-Sketch of the containers/images.
 !SLIDE
 ## Orchestration
 ----
