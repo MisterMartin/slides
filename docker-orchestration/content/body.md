@@ -185,7 +185,7 @@ local               chordsportal_rails-log
 local               chordsportal_shared-tmp
 ```
 !SLIDE
-## Conclusions
+## Take Aways
 |Using|Provides|
 |-|-|
 |*docker-compose.yml*|Interacting services, defined via a rational syntax|
